@@ -172,7 +172,7 @@ Healthcare-Analytics-Dashboard/
 ├── Healthcare_Analytics_Project_Report.pdf
 ├── README.md
 │
-└── Dashboard_Screenshots/
+└── Screenshots/
     ├── Executive_Overview.png
     ├── Patient_Satisfaction_Analysis.png
     ├── Cost_Readmission_Analysis.png
